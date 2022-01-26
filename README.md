@@ -1,5 +1,7 @@
 ## AWS CodeBuild Samples
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/490fc34d-9ddc-4cb8-9f32-9ce72fc4c8bd.svg?orgId=271534534505)](https://app.soluble.cloud/repos/details/github.com/lingom-ksr/aws-codebuild?orgId=271534534505)  
+
 Utilities and samples for building on CodeBuild
 
 ### Sample App: Simple Calculator Service
